@@ -1,4 +1,4 @@
-# Welcome to CrewAI week!
+# Welcome to CrewAI Agents!
 
 ## Installing Crew
 
