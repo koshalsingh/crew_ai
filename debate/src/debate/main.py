@@ -3,7 +3,6 @@ import sys
 import warnings
 from datetime import datetime
 from debate.crew import Debate
-
 warnings.filterwarnings("ignore", category=SyntaxWarning, module="pysbd")
 
 def run():
