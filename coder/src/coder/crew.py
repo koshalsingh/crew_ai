@@ -10,10 +10,6 @@ class Coder():
 
     agents: list[BaseAgent]
     tasks: list[Task]
-
-    # Learn more about YAML configuration files here:
-    # Agents: https://docs.crewai.com/concepts/agents#yaml-configuration-recommended
-    # Tasks: https://docs.crewai.com/concepts/tasks#yaml-configuration-recommended
     
     @agent
     def coder(self) -> Agent:
